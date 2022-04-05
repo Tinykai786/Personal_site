@@ -89,6 +89,12 @@ header h1 {
     font-family: 'Poppins', sans-serif;
 }
 
+@media (max-width: 600px) {
+     header h1 {
+       font-size: 5rem;
+  }
+}  
+
 .blog-list {
     display: flex;
     flex-direction: row;
