@@ -90,7 +90,7 @@ header h1 {
 }
 
 @media (max-width: 10rem) {
-     header h1 {
+     #title {
        font-size: 5rem;
        color: green;
   }
